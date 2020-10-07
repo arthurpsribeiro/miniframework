@@ -1,0 +1,19 @@
+{
+  "name": "arthurpsribeiro/miniframework",
+  "description": "Projeto de mini framework voltado para estudo de php e arquitetura MVC",
+  "require": {
+    "php": ">= 7.0"
+  },
+  "authors": [
+    {
+      "name": "Arthur Ribeiro",
+      "email": "arthurpsribeiro@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/",
+      "MF\\": "vendor/MF/"
+    }
+  }
+}
