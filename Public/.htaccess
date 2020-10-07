@@ -1,0 +1,4 @@
+/* Este arquivo funciona como arquivo de parametrização do Apache.
+Podemos definir algumas regras para que a aplicação web funcione adequadamente. 
+Por hora estou utilizando o servidor embutido do PHP. 
+ex: php -S localhost:8080 na linha de comando. */ 
